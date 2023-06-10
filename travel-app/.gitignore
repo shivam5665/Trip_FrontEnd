@@ -7,7 +7,7 @@
 
 # testing
 /coverage
-
+/jjt
 # production
 /build
 
